@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Bu rehberi kullanırsanız lütfen aşağıdaki gibi atıf verin."
+title: "Delaware Flip-Up: Türk Startup'ı ABD'ye Nasıl Taşınır?"
+authors:
+  - family-names: "Hacıpaşaoğlu"
+    given-names: "Erdem Mümtaz"
+    affiliation: "Vircon Legal"
+    website: "https://mumtazhacipasaoglu.com"
+repository-code: "https://github.com/mumtazhpo/flip-up-delaware-turkish-startup"
+url: "https://virconlegal.com/tr/"
+license: CC-BY-4.0
+date-released: "2026-08-21"
